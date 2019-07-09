@@ -9,10 +9,5 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        //Test this is working.
-
-        // Here
-
-        //L
     }
 }
